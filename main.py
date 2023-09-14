@@ -352,6 +352,7 @@ print(len(user_sentence_task_4))
 
 '''
 
+
 user_text_task_5 = input("Введите текст ")
 
 for i in range(len(user_text_task_5)):
